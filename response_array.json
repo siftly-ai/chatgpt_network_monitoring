@@ -1,0 +1,1419 @@
+event: delta_encoding
+data: "v1"
+
+event: delta
+data: {"p": "", "o": "add", "v": {"type": "__debug", "data": {"sonic_thread_id": "thread_68fdc0c36d68832c86d5c10eee7f41ef", "sonic_turn_index": 0}}, "c": 0}  
+
+event: delta
+data: {"v": {"matched_text": "", "start_idx": 0, "end_idx": 0, "safe_urls": [], "refs": [], "alt": "[adidas Men Trainers Ultrarun 5 Running Shoes](https://www.adidas.co.in/ultrarun-5-running-shoes/IH2640.html?utm_source=chatgpt.com)", "prompt_text": "### adidas Men Trainers Ultrarun 5 Running Shoes\nDescription: None\nPrice: \u20b96,399.50\nURL: https://www.adidas.co.in/ultrarun-5-running-shoes/IH2640.html?utm_source=chatgpt.com\nNumber of Reviews: 1531\nRating: 4.7\nFeatured Tag: None\nMerchants: adidas.co.in", "type": "product_entity", "product": {"query": "deprecated", "provider": "deprecated", "id": "7247945319449283551", "title": "adidas Men Trainers Ultrarun 5 Running Shoes", "providers": ["product_info"], "metadata_sources": ["p2"], "product_lookup_data": {"request_query": "Adidas Men\u2019s Trainers Ultrarun\u202f5", "all_ids": {"p2": ["7247945319449283551"]}, "known_ids": {}, "metadata_sources": ["p1", "p3"], "variant_options_query": null, "variant_sources": null}, "product_lookup_key": {"data": "{\"request_query\":\"Adidas Men\u2019s Trainers Ultrarun\u202f5\",\"all_ids\":{\"p2\":[\"7247945319449283551\"]},\"known_ids\":{},\"metadata_sources\":[\"p1\",\"p3\"],\"variant_sources\":null,\"last_variant_group_types\":null,\"merchant_hints\":[\"adidas.co.in\"],\"provider_title\":\"adidas Men Trainers Ultrarun 5 Running Shoes\",\"provider_metadata\":{\"p2\":{\"id_to_token_map\":{\"7247945319449283551\":\"eyJlaSI6bnVsbCwicHJvZHVjdGlkIjoiNzI0Nzk0NTMxOTQ0OTI4MzU1MSIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjcyNDc5NDUzMTk0NDkyODM1NTEiLCJpbWFnZURvY2lkIjoiMTcxMzAzMjQ5Mjc0NTgyMTY0NzciLCJyZHMiOiJQQ18yOTgyNjc4NTYwMDI1NzIyODI4fFBST0RfUENfMjk4MjY3ODU2MDAyNTcyMjgyOCIsInF1ZXJ5IjoicnVubmluZytzaG9lcyt1bmRlcis5MDAwK2luZGlhIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJhIiwidXVsZSI6IncrQ0FJUUlDSVdTbUZwY0hWeUxGSmhhbUZ6ZEdoaGJpeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiJ9\"}}}}", "version": "1", "variant_options_query": null, "last_variant_selection_group_id": null}, "url": "https://www.adidas.co.in/ultrarun-5-running-shoes/IH2640.html?utm_source=chatgpt.com", "merchants": "adidas.co.in", "price": "\u20b96,399.50", "description": null, "featured_tag": null, "image_urls": ["https://images.openai.com/static-rsc-1/UP6hgNx7jnEMKoSl9XNzQz-rGoyVMuSzIq2EMaqyvGKsnG1of5J0U8jGn_yOBx04yblU8HT4ynMjb0PVNBP4GYp6KQNH9D2LHQkH9y2KZBZaHre4AnVKK2mAUGzA9fhCJstws5eSVZRWkioRboARh5g2GK6AQlQ3H3nKstumZVXv2mIwRq-N9u8R0SAK1fQF6D7k4VTU0fYFl6NneoOmcyTb3ODfzARXH0LqxGytQkThRMom4nqUgnbXERiLO-1WkEjnP508A4gcSxqpDHy6OA", "https://images.openai.com/static-rsc-1/yhAk26bbbz6U6qJJVlE-Zf_JzLsjIIKKuClkTDA_-xuWjDzMmu9kwcVLojEPnghv1Y5Zd-9B0LN-q0jnfAY1yTHUDv-eDd_EOxbXjc9p-7f1D3JbypV_DwXKHZHE2SzxuUtj227M_o_fzKGqLVrq4q2PBn91bjd9NwONyzTasMlH9dMZrU6-T_B3XMpEYMQLPjSDeO5O_HfD22wr28QW3JYrNscrHlI4bYGM_zQm-ZU04J_kV-YHlRpUpA4nCLI-", "https://images.openai.com/static-rsc-1/JZsYGYEZaTrXf3HZzZMVNQ3r5pQRPmtUoJIhMG6O7XPx8Iiat09I8jfWMmKdD_pAqNfzLhilRgNNWww4cE_x7holg60aMyaDBhfnj3ZL7FrC7qKRNEWt0sZDtsohKtw-n-mpXWJuXas5Y6V82zfDO20JKqUWgCKRUuGOTjRF_MdvHmsUGK7OEZZbypX8DtNnQ396aXBozjP08qThOXHH9v0ohN4EzsBpIhDMngzIijkZSL7nsBMgqzcpPDKCzCLu"], "num_reviews": 1531, "rating": 4.7, "cite": "turn0product0", "rating_grouped_citation": {"title": "adidas Men Trainers Ultrarun 5 Running Shoes", "url": "https://www.adidas.co.in/ultrarun-5-running-shoes/IH2640.html", "pub_date": null, "snippet": null, "attribution_segments": null, "supporting_websites": [], "refs": [], "hue": null, "attributions": null}, "offers": [{"merchant_name": "adidas.co.in", "merchant_subtitle": null, "product_name": "adidas Men Trainers Ultrarun 5 Running Shoes", "url": "https://www.adidas.co.in/ultrarun-5-running-shoes/IH2640.html?utm_source=chatgpt.com", "price": "\u20b96,399.50", "details": "In stock online, Free delivery between 29 Oct\u2009\u2013\u20092 Nov", "price_details": {"display_price": null, "base": "\u20b96,399.50", "shipping": null, "tax": null, "total": "\u20b96,399.50"}, "checkout_image_urls": null, "original_price": null, "checkoutable": false, "available": true, "checkout_payload": null, "is_digital": null, "tag": {"text": "Best price", "tooltip": null}, "debug_info": {"source": "p2", "p": "124", "h": "['adidas.co.in']"}}], "variants": null, "variants_error_state_message": null, "offers_see_more_boundary": 3, "show_price_disclosure": false}, "prompt_obj": null}, "c": 1}       
+
+event: delta
+data: {"v": {"matched_text": "\ue200product_rationale\ue202The", "start_idx": 0, "end_idx": 22, "safe_urls": [], "refs": [], "alt": null, "prompt_text": null, "type": "product_rationale", "rationale": "The", "grouped_citation": null, "citations": []}, "c": 2}   
+
+event: delta
+data: {"o": "patch", "v": [{"p": "/matched_text", "o": "append", "v": " Adidas"}, {"p": "/end_idx", "o": "replace", "v": 29}, {"p": "/rationale", "o": "append", "v": " Adidas"}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Ul"}, {"p": "/end_idx", "o": "replace", "v": 32}, {"p": "/rationale", "o": "append", "v": " Ul"}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "trar"}, {"p": "/end_idx", "o": "replace", "v": 36}, {"p": "/rationale", "o": "append", "v": "trar"}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "un"}, {"p": "/end_idx", "o": "replace", "v": 38}, {"p": "/rationale", "o": "append", "v": "un"}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " "}, {"p": "/end_idx", "o": "replace", "v": 39}, {"p": "/rationale", "o": "append", "v": " "}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "5"}, {"p": "/end_idx", "o": "replace", "v": 40}, {"p": "/rationale", "o": "append", "v": "5"}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Running"}, {"p": "/end_idx", "o": "replace", "v": 48}, {"p": "/rationale", "o": "append", "v": " Running"}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Shoes"}, {"p": "/end_idx", "o": "replace", "v": 54}, {"p": "/rationale", "o": "append", "v": " Shoes"}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " are"}, {"p": "/end_idx", "o": "replace", "v": 58}, {"p": "/rationale", "o": "append", "v": " are"}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " an"}, {"p": "/end_idx", "o": "replace", "v": 61}, {"p": "/rationale", "o": "append", "v": " an"}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " excellent"}, {"p": "/end_idx", "o": "replace", "v": 71}, {"p": "/rationale", "o": "append", "v": " excellent"}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " choice"}, {"p": "/end_idx", "o": "replace", "v": 78}, {"p": "/rationale", "o": "append", "v": " choice"}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " for"}, {"p": "/end_idx", "o": "replace", "v": 82}, {"p": "/rationale", "o": "append", "v": " for"}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " beginner"}, {"p": "/end_idx", "o": "replace", "v": 91}, {"p": "/rationale", "o": "append", "v": " beginner"}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " runners"}, {"p": "/end_idx", "o": "replace", "v": 99}, {"p": "/rationale", "o": "append", "v": " runners"}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " and"}, {"p": "/end_idx", "o": "replace", "v": 103}, {"p": "/rationale", "o": "append", "v": " and"}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " those"}, {"p": "/end_idx", "o": "replace", "v": 109}, {"p": "/rationale", "o": "append", "v": " those"}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " seeking"}, {"p": "/end_idx", "o": "replace", "v": 117}, {"p": "/rationale", "o": "append", "v": " seeking"}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " a"}, {"p": "/end_idx", "o": "replace", "v": 119}, {"p": "/rationale", "o": "append", "v": " a"}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " budget"}, {"p": "/end_idx", "o": "replace", "v": 126}, {"p": "/rationale", "o": "append", "v": " budget"}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "-friendly"}, {"p": "/end_idx", "o": "replace", "v": 135}, {"p": "/rationale", "o": "append", "v": "-friendly"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ","}, {"p": "/end_idx", "o": "replace", "v": 136}, {"p": "/rationale", "o": "append", "v": ","}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " comfortable"}, {"p": "/end_idx", "o": "replace", "v": 148}, {"p": "/rationale", "o": "append", "v": " comfortable"}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " daily"}, {"p": "/end_idx", "o": "replace", "v": 154}, {"p": "/rationale", "o": "append", "v": " daily"}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " trainer"}, {"p": "/end_idx", "o": "replace", "v": 162}, {"p": "/rationale", "o": "append", "v": " trainer"}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "."}, {"p": "/end_idx", "o": "replace", "v": 163}, {"p": "/rationale", "o": "append", "v": "."}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " They"}, {"p": "/end_idx", "o": "replace", "v": 168}, {"p": "/rationale", "o": "append", "v": " They"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " offer"}, {"p": "/end_idx", "o": "replace", "v": 174}, {"p": "/rationale", "o": "append", "v": " offer"}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " a"}, {"p": "/end_idx", "o": "replace", "v": 176}, {"p": "/rationale", "o": "append", "v": " a"}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " cush"}, {"p": "/end_idx", "o": "replace", "v": 181}, {"p": "/rationale", "o": "append", "v": " cush"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "ioned"}, {"p": "/end_idx", "o": "replace", "v": 186}, {"p": "/rationale", "o": "append", "v": "ioned"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " ride"}, {"p": "/end_idx", "o": "replace", "v": 191}, {"p": "/rationale", "o": "append", "v": " ride"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " with"}, {"p": "/end_idx", "o": "replace", "v": 196}, {"p": "/rationale", "o": "append", "v": " with"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Bounce"}, {"p": "/end_idx", "o": "replace", "v": 203}, {"p": "/rationale", "o": "append", "v": " Bounce"}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " "}, {"p": "/end_idx", "o": "replace", "v": 204}, {"p": "/rationale", "o": "append", "v": " "}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "2"}, {"p": "/end_idx", "o": "replace", "v": 205}, {"p": "/rationale", "o": "append", "v": "2"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "."}, {"p": "/end_idx", "o": "replace", "v": 206}, {"p": "/rationale", "o": "append", "v": "."}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "0"}, {"p": "/end_idx", "o": "replace", "v": 207}, {"p": "/rationale", "o": "append", "v": "0"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " mid"}, {"p": "/end_idx", "o": "replace", "v": 211}, {"p": "/rationale", "o": "append", "v": " mid"}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "sole"}, {"p": "/end_idx", "o": "replace", "v": 215}, {"p": "/rationale", "o": "append", "v": "sole"}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ","}, {"p": "/end_idx", "o": "replace", "v": 216}, {"p": "/rationale", "o": "append", "v": ","}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " breathable"}, {"p": "/end_idx", "o": "replace", "v": 227}, {"p": "/rationale", "o": "append", "v": " breathable"}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " mesh"}, {"p": "/end_idx", "o": "replace", "v": 232}, {"p": "/rationale", "o": "append", "v": " mesh"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " upper"}, {"p": "/end_idx", "o": "replace", "v": 238}, {"p": "/rationale", "o": "append", "v": " upper"}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ","}, {"p": "/end_idx", "o": "replace", "v": 239}, {"p": "/rationale", "o": "append", "v": ","}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " and"}, {"p": "/end_idx", "o": "replace", "v": 243}, {"p": "/rationale", "o": "append", "v": " and"}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " durable"}, {"p": "/end_idx", "o": "replace", "v": 251}, {"p": "/rationale", "o": "append", "v": " durable"}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Ad"}, {"p": "/end_idx", "o": "replace", "v": 254}, {"p": "/rationale", "o": "append", "v": " Ad"}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "iw"}, {"p": "/end_idx", "o": "replace", "v": 256}, {"p": "/rationale", "o": "append", "v": "iw"}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "ear"}, {"p": "/end_idx", "o": "replace", "v": 259}, {"p": "/rationale", "o": "append", "v": "ear"}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " outsole"}, {"p": "/end_idx", "o": "replace", "v": 267}, {"p": "/rationale", "o": "append", "v": " outsole"}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ","}, {"p": "/end_idx", "o": "replace", "v": 268}, {"p": "/rationale", "o": "append", "v": ","}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " making"}, {"p": "/end_idx", "o": "replace", "v": 275}, {"p": "/rationale", "o": "append", "v": " making"}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " them"}, {"p": "/end_idx", "o": "replace", "v": 280}, {"p": "/rationale", "o": "append", "v": " them"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " suitable"}, {"p": "/end_idx", "o": "replace", "v": 289}, {"p": "/rationale", "o": "append", "v": " suitable"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " for"}, {"p": "/end_idx", "o": "replace", "v": 293}, {"p": "/rationale", "o": "append", "v": " for"}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " both"}, {"p": "/end_idx", "o": "replace", "v": 298}, {"p": "/rationale", "o": "append", "v": " both"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " running"}, {"p": "/end_idx", "o": "replace", "v": 306}, {"p": "/rationale", "o": "append", "v": " running"}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " and"}, {"p": "/end_idx", "o": "replace", "v": 310}, {"p": "/rationale", "o": "append", "v": " and"}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " casual"}, {"p": "/end_idx", "o": "replace", "v": 317}, {"p": "/rationale", "o": "append", "v": " casual"}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " wear"}, {"p": "/end_idx", "o": "replace", "v": 322}, {"p": "/rationale", "o": "append", "v": " wear"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "."}, {"p": "/end_idx", "o": "replace", "v": 323}, {"p": "/rationale", "o": "append", "v": "."}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\ue202"}, {"p": "/end_idx", "o": "replace", "v": 324}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "turn"}, {"p": "/end_idx", "o": "replace", "v": 328}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "0"}, {"p": "/end_idx", "o": "replace", "v": 329}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "search"}, {"p": "/end_idx", "o": "replace", "v": 335}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "0"}, {"p": "/end_idx", "o": "replace", "v": 336}, {"p": "/grouped_citation", "o": "replace", "v": {"title": "Cut in half: Adidas Ultrarun 5 Review (2025) | RunRepeat", "url": "https://runrepeat.com/adidas-ultrarun-5?utm_source=chatgpt.com", "pub_date": null, "snippet": "Who should buy The Adidas Ultrarun 5 is a great option for: New runners who want a comfort-focused, budget-friendly shoe. Ultraboost fans who love the look but prefer a more wallet-friendly alternative\u2014the Ultrarun 5 mirrors the design at a fraction of the cost. Heel strikers seeking a cushioned, daily trainer that doesn\u2019t break the bank.", "attribution_segments": null, "supporting_websites": [], "refs": [], "hue": null, "attributions": null}}, {"p": "/citations", "o": "append", "v": [{"cite": "turn0search0", "title": "Cut in half: Adidas Ultrarun 5 Review (2025) | RunRepeat", "url": "https://runrepeat.com/adidas-ultrarun-5?utm_source=chatgpt.com", "pub_date": 1749427200.0, "snippet": "Who should buy The Adidas Ultrarun 5 is a great option for: New runners who want a comfort-focused, budget-friendly shoe. Ultraboost fans who love the look but prefer a more wallet-friendly alternative\u2014the Ultrarun 5 mirrors the design at a fraction of the cost. Heel strikers seeking a cushioned, daily trainer that doesn\u2019t break the bank."}]}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ","}, {"p": "/end_idx", "o": "replace", "v": 337}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "turn"}, {"p": "/end_idx", "o": "replace", "v": 341}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "0"}, {"p": "/end_idx", "o": "replace", "v": 342}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "search"}, {"p": "/end_idx", "o": "replace", "v": 348}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "2"}, {"p": "/end_idx", "o": "replace", "v": 349}, {"p": "/grouped_citation/title", "o": "replace", "v": "Blue Ultrarun 5 Running Shoes - Adidas"}, {"p": "/grouped_citation/url", "o": "replace", "v": "https://www.adidas.com/us/ultrarun-5-running-shoes/JQ3811.html?utm_source=chatgpt.com"}, {"p": "/grouped_citation/snippet", "o": "replace", "v": "Jun 30, 2025 \u2014 These adidas shoes keep your feet comfortable with a breezy mesh upper and soft sockliner. Bounce 2.0 cushioning keeps you going for the long haul."}, {"p": "/grouped_citation/supporting_websites", "o": "append", "v": [{"title": "Cut in half: Adidas Ultrarun 5 Review (2025) | RunRepeat", "url": "https://runrepeat.com/adidas-ultrarun-5?utm_source=chatgpt.com", "pub_date": null, "snippet": "Who should buy The Adidas Ultrarun 5 is a great option for: New runners who want a comfort-focused, budget-friendly shoe. Ultraboost fans who love the look but prefer a more wallet-friendly alternative\u2014the Ultrarun 5 mirrors the design at a fraction of the cost. Heel strikers seeking a cushioned, daily trainer that doesn\u2019t break the bank."}]}, {"p": "/citations/0/cite", "o": "replace", "v": "turn0search2"}, {"p": "/citations/0/title", "o": "replace", "v": "Blue Ultrarun 5 Running Shoes - Adidas"}, {"p": "/citations/0/url", "o": "replace", "v": "https://www.adidas.com/us/ultrarun-5-running-shoes/JQ3811.html?utm_source=chatgpt.com"}, {"p": "/citations/0/pub_date", "o": "replace", "v": null}, {"p": "/citations/0/snippet", "o": "replace", "v": "Jun 30, 2025 \u2014 These adidas shoes keep your feet comfortable with a breezy mesh upper and soft sockliner. Bounce 2.0 cushioning keeps you going for the long haul."}, {"p": "/citations", "o": "append", "v": [{"cite": "turn0search0", "title": "Cut in half: Adidas Ultrarun 5 Review (2025) | RunRepeat", "url": "https://runrepeat.com/adidas-ultrarun-5?utm_source=chatgpt.com", "pub_date": 1749427200.0, "snippet": "Who should buy The Adidas Ultrarun 5 is a great option for: New runners who want a comfort-focused, budget-friendly shoe. Ultraboost fans who love the look but prefer a more wallet-friendly alternative\u2014the Ultrarun 5 mirrors the design at a fraction of the cost. Heel strikers seeking a cushioned, daily trainer that doesn\u2019t break the bank."}]}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\ue201"}, {"p": "/end_idx", "o": "replace", "v": 350}]}      
+
+event: delta
+data: {"o": "add", "v": {"matched_text": "\ue200product_reviews\ue202Review", "start_idx": 352, "end_idx": 375, "safe_urls": [], "refs": [], "alt": null, "prompt_text": null, "type": "product_reviews", "summary": "Review", "reviews": [], "cite_map": {}}, "c": 3}
+
+event: delta
+data: {"o": "patch", "v": [{"p": "/matched_text", "o": "append", "v": "ers"}, {"p": "/end_idx", "o": "replace", "v": 378}, {"p": "/summary", "o": "append", "v": "ers"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " highlight"}, {"p": "/end_idx", "o": "replace", "v": 388}, {"p": "/summary", "o": "append", "v": " highlight"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " the"}, {"p": "/end_idx", "o": "replace", "v": 392}, {"p": "/summary", "o": "append", "v": " the"}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Ul"}, {"p": "/end_idx", "o": "replace", "v": 395}, {"p": "/summary", "o": "append", "v": " Ul"}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "trar"}, {"p": "/end_idx", "o": "replace", "v": 399}, {"p": "/summary", "o": "append", "v": "trar"}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "un"}, {"p": "/end_idx", "o": "replace", "v": 401}, {"p": "/summary", "o": "append", "v": "un"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " "}, {"p": "/end_idx", "o": "replace", "v": 402}, {"p": "/summary", "o": "append", "v": " "}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "5"}, {"p": "/end_idx", "o": "replace", "v": 403}, {"p": "/summary", "o": "append", "v": "5"}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "'s"}, {"p": "/end_idx", "o": "replace", "v": 405}, {"p": "/summary", "o": "append", "v": "'s"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " comfort"}, {"p": "/end_idx", "o": "replace", "v": 413}, {"p": "/summary", "o": "append", "v": " comfort"}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " and"}, {"p": "/end_idx", "o": "replace", "v": 417}, {"p": "/summary", "o": "append", "v": " and"}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " affordability"}, {"p": "/end_idx", "o": "replace", "v": 431}, {"p": "/summary", "o": "append", "v": " affordability"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ","}, {"p": "/end_idx", "o": "replace", "v": 432}, {"p": "/summary", "o": "append", "v": ","}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " making"}, {"p": "/end_idx", "o": "replace", "v": 439}, {"p": "/summary", "o": "append", "v": " making"}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " them"}, {"p": "/end_idx", "o": "replace", "v": 444}, {"p": "/summary", "o": "append", "v": " them"}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " a"}, {"p": "/end_idx", "o": "replace", "v": 446}, {"p": "/summary", "o": "append", "v": " a"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " solid"}, {"p": "/end_idx", "o": "replace", "v": 452}, {"p": "/summary", "o": "append", "v": " solid"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " choice"}, {"p": "/end_idx", "o": "replace", "v": 459}, {"p": "/summary", "o": "append", "v": " choice"}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " for"}, {"p": "/end_idx", "o": "replace", "v": 463}, {"p": "/summary", "o": "append", "v": " for"}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " new"}, {"p": "/end_idx", "o": "replace", "v": 467}, {"p": "/summary", "o": "append", "v": " new"}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " runners"}, {"p": "/end_idx", "o": "replace", "v": 475}, {"p": "/summary", "o": "append", "v": " runners"}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " or"}, {"p": "/end_idx", "o": "replace", "v": 478}, {"p": "/summary", "o": "append", "v": " or"}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " those"}, {"p": "/end_idx", "o": "replace", "v": 484}, {"p": "/summary", "o": "append", "v": " those"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " seeking"}, {"p": "/end_idx", "o": "replace", "v": 492}, {"p": "/summary", "o": "append", "v": " seeking"}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " a"}, {"p": "/end_idx", "o": "replace", "v": 494}, {"p": "/summary", "o": "append", "v": " a"}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " stylish"}, {"p": "/end_idx", "o": "replace", "v": 502}, {"p": "/summary", "o": "append", "v": " stylish"}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ","}, {"p": "/end_idx", "o": "replace", "v": 503}, {"p": "/summary", "o": "append", "v": ","}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " budget"}, {"p": "/end_idx", "o": "replace", "v": 510}, {"p": "/summary", "o": "append", "v": " budget"}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "-friendly"}, {"p": "/end_idx", "o": "replace", "v": 519}, {"p": "/summary", "o": "append", "v": "-friendly"}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " option"}, {"p": "/end_idx", "o": "replace", "v": 526}, {"p": "/summary", "o": "append", "v": " option"}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "."}, {"p": "/end_idx", "o": "replace", "v": 527}, {"p": "/summary", "o": "append", "v": "."}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\ue202"}, {"p": "/end_idx", "o": "replace", "v": 528}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "{\""}, {"p": "/end_idx", "o": "replace", "v": 530}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "source"}, {"p": "/end_idx", "o": "replace", "v": 536}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 539}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "Run"}, {"p": "/end_idx", "o": "replace", "v": 542}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "Repeat"}, {"p": "/end_idx", "o": "replace", "v": 548}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\",\""}, {"p": "/end_idx", "o": "replace", "v": 551}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "theme"}, {"p": "/end_idx", "o": "replace", "v": 556}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 559}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "Begin"}, {"p": "/end_idx", "o": "replace", "v": 564}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "ner"}, {"p": "/end_idx", "o": "replace", "v": 567}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "-Friendly"}, {"p": "/end_idx", "o": "replace", "v": 576}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " and"}, {"p": "/end_idx", "o": "replace", "v": 580}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Budget"}, {"p": "/end_idx", "o": "replace", "v": 587}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "-Con"}, {"p": "/end_idx", "o": "replace", "v": 591}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "scious"}, {"p": "/end_idx", "o": "replace", "v": 597}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\",\""}, {"p": "/end_idx", "o": "replace", "v": 600}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "summary"}, {"p": "/end_idx", "o": "replace", "v": 607}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 610}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "The"}, {"p": "/end_idx", "o": "replace", "v": 613}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Adidas"}, {"p": "/end_idx", "o": "replace", "v": 620}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Ul"}, {"p": "/end_idx", "o": "replace", "v": 623}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "trar"}, {"p": "/end_idx", "o": "replace", "v": 627}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "un"}, {"p": "/end_idx", "o": "replace", "v": 629}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " "}, {"p": "/end_idx", "o": "replace", "v": 630}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "5"}, {"p": "/end_idx", "o": "replace", "v": 631}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " is"}, {"p": "/end_idx", "o": "replace", "v": 634}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " praised"}, {"p": "/end_idx", "o": "replace", "v": 642}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " as"}, {"p": "/end_idx", "o": "replace", "v": 645}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " a"}, {"p": "/end_idx", "o": "replace", "v": 647}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " great"}, {"p": "/end_idx", "o": "replace", "v": 653}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " option"}, {"p": "/end_idx", "o": "replace", "v": 660}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " for"}, {"p": "/end_idx", "o": "replace", "v": 664}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " new"}, {"p": "/end_idx", "o": "replace", "v": 668}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " runners"}, {"p": "/end_idx", "o": "replace", "v": 676}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " seeking"}, {"p": "/end_idx", "o": "replace", "v": 684}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " comfort"}, {"p": "/end_idx", "o": "replace", "v": 692}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " and"}, {"p": "/end_idx", "o": "replace", "v": 696}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " affordability"}, {"p": "/end_idx", "o": "replace", "v": 710}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "."}, {"p": "/end_idx", "o": "replace", "v": 711}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " It"}, {"p": "/end_idx", "o": "replace", "v": 714}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " mirrors"}, {"p": "/end_idx", "o": "replace", "v": 722}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " the"}, {"p": "/end_idx", "o": "replace", "v": 726}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Ultr"}, {"p": "/end_idx", "o": "replace", "v": 731}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "abo"}, {"p": "/end_idx", "o": "replace", "v": 734}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "ost"}, {"p": "/end_idx", "o": "replace", "v": 737}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "'s"}, {"p": "/end_idx", "o": "replace", "v": 739}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " design"}, {"p": "/end_idx", "o": "replace", "v": 746}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " at"}, {"p": "/end_idx", "o": "replace", "v": 749}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " a"}, {"p": "/end_idx", "o": "replace", "v": 751}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " fraction"}, {"p": "/end_idx", "o": "replace", "v": 760}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " of"}, {"p": "/end_idx", "o": "replace", "v": 763}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " the"}, {"p": "/end_idx", "o": "replace", "v": 767}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " cost"}, {"p": "/end_idx", "o": "replace", "v": 772}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ","}, {"p": "/end_idx", "o": "replace", "v": 773}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " making"}, {"p": "/end_idx", "o": "replace", "v": 780}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " it"}, {"p": "/end_idx", "o": "replace", "v": 783}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " appealing"}, {"p": "/end_idx", "o": "replace", "v": 793}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " for"}, {"p": "/end_idx", "o": "replace", "v": 797}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " those"}, {"p": "/end_idx", "o": "replace", "v": 803}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " who"}, {"p": "/end_idx", "o": "replace", "v": 807}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " want"}, {"p": "/end_idx", "o": "replace", "v": 812}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " the"}, {"p": "/end_idx", "o": "replace", "v": 816}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " look"}, {"p": "/end_idx", "o": "replace", "v": 821}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " without"}, {"p": "/end_idx", "o": "replace", "v": 829}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " the"}, {"p": "/end_idx", "o": "replace", "v": 833}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " high"}, {"p": "/end_idx", "o": "replace", "v": 838}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " price"}, {"p": "/end_idx", "o": "replace", "v": 844}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " tag"}, {"p": "/end_idx", "o": "replace", "v": 848}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ".\",\""}, {"p": "/end_idx", "o": "replace", "v": 852}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "sent"}, {"p": "/end_idx", "o": "replace", "v": 856}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "iment"}, {"p": "/end_idx", "o": "replace", "v": 861}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 864}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "positive"}, {"p": "/end_idx", "o": "replace", "v": 872}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\",\""}, {"p": "/end_idx", "o": "replace", "v": 875}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "cite"}, {"p": "/end_idx", "o": "replace", "v": 879}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 882}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "turn"}, {"p": "/end_idx", "o": "replace", "v": 886}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "0"}, {"p": "/end_idx", "o": "replace", "v": 887}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "search"}, {"p": "/end_idx", "o": "replace", "v": 893}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "0"}, {"p": "/end_idx", "o": "replace", "v": 894}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\"}"}, {"p": "/end_idx", "o": "replace", "v": 896}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\ue202"}, {"p": "/end_idx", "o": "replace", "v": 897}, {"p": "/reviews", "o": "append", "v": [{"source": "RunRepeat", "theme": "Beginner-Friendly and Budget-Conscious", "summary": "The Adidas Ultrarun 5 is praised as a great option for new runners seeking comfort and affordability. It mirrors the Ultraboost's design at a fraction of the cost, making it appealing for those who want the look without the high price tag.", "rating": null, "num_reviews": null, "sentiment": "positive", "cite_url": null, "cite": "turn0search0"}]}, {"p": "/cite_map/turn0search0", "o": "add", "v": {"cite": "turn0search0", "title": "Cut in half: Adidas Ultrarun 5 Review (2025) | RunRepeat", "url": "https://runrepeat.com/adidas-ultrarun-5?utm_source=chatgpt.com", "pub_date": 1749427200.0, "snippet": "Who should buy The Adidas Ultrarun 5 is a great option for: New runners who want a comfort-focused, budget-friendly shoe. Ultraboost fans who love the look but prefer a more wallet-friendly alternative\u2014the Ultrarun 5 mirrors the design at a fraction of the cost. Heel strikers seeking a cushioned, daily trainer that doesn\u2019t break the bank."}}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "{\""}, {"p": "/end_idx", "o": "replace", "v": 899}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "source"}, {"p": "/end_idx", "o": "replace", "v": 905}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 908}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "Run"}, {"p": "/end_idx", "o": "replace", "v": 911}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "Repeat"}, {"p": "/end_idx", "o": "replace", "v": 917}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\",\""}, {"p": "/end_idx", "o": "replace", "v": 920}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "theme"}, {"p": "/end_idx", "o": "replace", "v": 925}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 928}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "Comfort"}, {"p": "/end_idx", "o": "replace", "v": 935}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " and"}, {"p": "/end_idx", "o": "replace", "v": 939}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Dur"}, {"p": "/end_idx", "o": "replace", "v": 943}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "ability"}, {"p": "/end_idx", "o": "replace", "v": 950}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\",\""}, {"p": "/end_idx", "o": "replace", "v": 953}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "summary"}, {"p": "/end_idx", "o": "replace", "v": 960}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 963}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "Users"}, {"p": "/end_idx", "o": "replace", "v": 968}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " appreciate"}, {"p": "/end_idx", "o": "replace", "v": 979}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " the"}, {"p": "/end_idx", "o": "replace", "v": 983}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " cozy"}, {"p": "/end_idx", "o": "replace", "v": 988}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " step"}, {"p": "/end_idx", "o": "replace", "v": 993}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "-in"}, {"p": "/end_idx", "o": "replace", "v": 996}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " feel"}, {"p": "/end_idx", "o": "replace", "v": 1001}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " and"}, {"p": "/end_idx", "o": "replace", "v": 1005}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " good"}, {"p": "/end_idx", "o": "replace", "v": 1010}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " durability"}, {"p": "/end_idx", "o": "replace", "v": 1021}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " of"}, {"p": "/end_idx", "o": "replace", "v": 1024}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " the"}, {"p": "/end_idx", "o": "replace", "v": 1028}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Ul"}, {"p": "/end_idx", "o": "replace", "v": 1031}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "trar"}, {"p": "/end_idx", "o": "replace", "v": 1035}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "un"}, {"p": "/end_idx", "o": "replace", "v": 1037}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " "}, {"p": "/end_idx", "o": "replace", "v": 1038}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "5"}, {"p": "/end_idx", "o": "replace", "v": 1039}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ","}, {"p": "/end_idx", "o": "replace", "v": 1040}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " noting"}, {"p": "/end_idx", "o": "replace", "v": 1047}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " it"}, {"p": "/end_idx", "o": "replace", "v": 1050}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " works"}, {"p": "/end_idx", "o": "replace", "v": 1056}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " well"}, {"p": "/end_idx", "o": "replace", "v": 1061}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " as"}, {"p": "/end_idx", "o": "replace", "v": 1064}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " a"}, {"p": "/end_idx", "o": "replace", "v": 1066}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " casual"}, {"p": "/end_idx", "o": "replace", "v": 1073}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " sneaker"}, {"p": "/end_idx", "o": "replace", "v": 1081}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " too"}, {"p": "/end_idx", "o": "replace", "v": 1085}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "."}, {"p": "/end_idx", "o": "replace", "v": 1086}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " However"}, {"p": "/end_idx", "o": "replace", "v": 1094}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ","}, {"p": "/end_idx", "o": "replace", "v": 1095}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " some"}, {"p": "/end_idx", "o": "replace", "v": 1100}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " mention"}, {"p": "/end_idx", "o": "replace", "v": 1108}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " it"}, {"p": "/end_idx", "o": "replace", "v": 1111}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " feels"}, {"p": "/end_idx", "o": "replace", "v": 1117}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " bulky"}, {"p": "/end_idx", "o": "replace", "v": 1123}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " and"}, {"p": "/end_idx", "o": "replace", "v": 1127}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " lacks"}, {"p": "/end_idx", "o": "replace", "v": 1133}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " an"}, {"p": "/end_idx", "o": "replace", "v": 1136}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " energetic"}, {"p": "/end_idx", "o": "replace", "v": 1146}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " ride"}, {"p": "/end_idx", "o": "replace", "v": 1151}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ".\",\""}, {"p": "/end_idx", "o": "replace", "v": 1155}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "sent"}, {"p": "/end_idx", "o": "replace", "v": 1159}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "iment"}, {"p": "/end_idx", "o": "replace", "v": 1164}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 1167}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "positive"}, {"p": "/end_idx", "o": "replace", "v": 1175}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\",\""}, {"p": "/end_idx", "o": "replace", "v": 1178}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "cite"}, {"p": "/end_idx", "o": "replace", "v": 1182}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 1185}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "turn"}, {"p": "/end_idx", "o": "replace", "v": 1189}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "0"}, {"p": "/end_idx", "o": "replace", "v": 1190}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "search"}, {"p": "/end_idx", "o": "replace", "v": 1196}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "0"}, {"p": "/end_idx", "o": "replace", "v": 1197}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\"}"}, {"p": "/end_idx", "o": "replace", "v": 1199}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\ue202"}, {"p": "/end_idx", "o": "replace", "v": 1200}, {"p": "/reviews", "o": "append", "v": [{"source": "RunRepeat", "theme": "Comfort and Durability", "summary": "Users appreciate the cozy step-in feel and good durability of the Ultrarun 5, noting it works well as a casual sneaker too. However, some mention it feels bulky and lacks an energetic ride.", "rating": null, "num_reviews": null, "sentiment": "positive", "cite_url": null, "cite": "turn0search0"}]}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "{\""}, {"p": "/end_idx", "o": "replace", "v": 1202}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "source"}, {"p": "/end_idx", "o": "replace", "v": 1208}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 1211}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "Amazon"}, {"p": "/end_idx", "o": "replace", "v": 1217}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\",\""}, {"p": "/end_idx", "o": "replace", "v": 1220}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "theme"}, {"p": "/end_idx", "o": "replace", "v": 1225}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 1228}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "Comfort"}, {"p": "/end_idx", "o": "replace", "v": 1235}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " and"}, {"p": "/end_idx", "o": "replace", "v": 1239}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Performance"}, {"p": "/end_idx", "o": "replace", "v": 1251}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\",\""}, {"p": "/end_idx", "o": "replace", "v": 1254}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "summary"}, {"p": "/end_idx", "o": "replace", "v": 1261}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 1264}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "Customers"}, {"p": "/end_idx", "o": "replace", "v": 1273}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " find"}, {"p": "/end_idx", "o": "replace", "v": 1278}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " the"}, {"p": "/end_idx", "o": "replace", "v": 1282}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Ul"}, {"p": "/end_idx", "o": "replace", "v": 1285}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "trar"}, {"p": "/end_idx", "o": "replace", "v": 1289}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "un"}, {"p": "/end_idx", "o": "replace", "v": 1291}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " "}, {"p": "/end_idx", "o": "replace", "v": 1292}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "5"}, {"p": "/end_idx", "o": "replace", "v": 1293}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " comfortable"}, {"p": "/end_idx", "o": "replace", "v": 1305}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " for"}, {"p": "/end_idx", "o": "replace", "v": 1309}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " daily"}, {"p": "/end_idx", "o": "replace", "v": 1315}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " runs"}, {"p": "/end_idx", "o": "replace", "v": 1320}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ","}, {"p": "/end_idx", "o": "replace", "v": 1321}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " highlighting"}, {"p": "/end_idx", "o": "replace", "v": 1334}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " the"}, {"p": "/end_idx", "o": "replace", "v": 1338}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " breathable"}, {"p": "/end_idx", "o": "replace", "v": 1349}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " mesh"}, {"p": "/end_idx", "o": "replace", "v": 1354}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " upper"}, {"p": "/end_idx", "o": "replace", "v": 1360}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " and"}, {"p": "/end_idx", "o": "replace", "v": 1364}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Bounce"}, {"p": "/end_idx", "o": "replace", "v": 1371}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " "}, {"p": "/end_idx", "o": "replace", "v": 1372}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "2"}, {"p": "/end_idx", "o": "replace", "v": 1373}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "."}, {"p": "/end_idx", "o": "replace", "v": 1374}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "0"}, {"p": "/end_idx", "o": "replace", "v": 1375}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " cushioning"}, {"p": "/end_idx", "o": "replace", "v": 1386}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "."}, {"p": "/end_idx", "o": "replace", "v": 1387}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " One"}, {"p": "/end_idx", "o": "replace", "v": 1391}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " reviewer"}, {"p": "/end_idx", "o": "replace", "v": 1400}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " noted"}, {"p": "/end_idx", "o": "replace", "v": 1406}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ","}, {"p": "/end_idx", "o": "replace", "v": 1407}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " '"}, {"p": "/end_idx", "o": "replace", "v": 1409}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "These"}, {"p": "/end_idx", "o": "replace", "v": 1414}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " adidas"}, {"p": "/end_idx", "o": "replace", "v": 1421}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " running"}, {"p": "/end_idx", "o": "replace", "v": 1429}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " shoes"}, {"p": "/end_idx", "o": "replace", "v": 1435}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " help"}, {"p": "/end_idx", "o": "replace", "v": 1440}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " you"}, {"p": "/end_idx", "o": "replace", "v": 1444}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " progress"}, {"p": "/end_idx", "o": "replace", "v": 1453}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " toward"}, {"p": "/end_idx", "o": "replace", "v": 1460}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " your"}, {"p": "/end_idx", "o": "replace", "v": 1465}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " goals"}, {"p": "/end_idx", "o": "replace", "v": 1471}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " with"}, {"p": "/end_idx", "o": "replace", "v": 1476}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " the"}, {"p": "/end_idx", "o": "replace", "v": 1480}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " spring"}, {"p": "/end_idx", "o": "replace", "v": 1487}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "y"}, {"p": "/end_idx", "o": "replace", "v": 1488}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " feel"}, {"p": "/end_idx", "o": "replace", "v": 1493}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " of"}, {"p": "/end_idx", "o": "replace", "v": 1496}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " lightweight"}, {"p": "/end_idx", "o": "replace", "v": 1508}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Bounce"}, {"p": "/end_idx", "o": "replace", "v": 1515}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " "}, {"p": "/end_idx", "o": "replace", "v": 1516}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "2"}, {"p": "/end_idx", "o": "replace", "v": 1517}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "."}, {"p": "/end_idx", "o": "replace", "v": 1518}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "0"}, {"p": "/end_idx", "o": "replace", "v": 1519}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " cushioning"}, {"p": "/end_idx", "o": "replace", "v": 1530}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " under"}, {"p": "/end_idx", "o": "replace", "v": 1536}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "foot"}, {"p": "/end_idx", "o": "replace", "v": 1540}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ".'"}, {"p": "/end_idx", "o": "replace", "v": 1542}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\",\""}, {"p": "/end_idx", "o": "replace", "v": 1545}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "sent"}, {"p": "/end_idx", "o": "replace", "v": 1549}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "iment"}, {"p": "/end_idx", "o": "replace", "v": 1554}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 1557}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "positive"}, {"p": "/end_idx", "o": "replace", "v": 1565}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\",\""}, {"p": "/end_idx", "o": "replace", "v": 1568}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "cite"}, {"p": "/end_idx", "o": "replace", "v": 1572}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 1575}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "turn"}, {"p": "/end_idx", "o": "replace", "v": 1579}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "0"}, {"p": "/end_idx", "o": "replace", "v": 1580}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "search"}, {"p": "/end_idx", "o": "replace", "v": 1586}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "14"}, {"p": "/end_idx", "o": "replace", "v": 1588}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\"}"}, {"p": "/end_idx", "o": "replace", "v": 1590}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\ue202"}, {"p": "/end_idx", "o": "replace", "v": 1591}, {"p": "/reviews", "o": "append", "v": [{"source": "Amazon", "theme": "Comfort and Performance", "summary": "Customers find the Ultrarun 5 comfortable for daily runs, highlighting the breathable mesh upper and Bounce 2.0 cushioning. One reviewer noted, 'These adidas running shoes help you progress toward your goals with the springy feel of lightweight Bounce 2.0 cushioning underfoot.'", "rating": null, "num_reviews": null, "sentiment": "positive", "cite_url": null, "cite": "turn0search14"}]}, {"p": "/cite_map/turn0search14", "o": "add", "v": {"cite": "turn0search14", "title": "adidas Men ULTRARUN 5 Running Shoes - amazon.com", "url": "https://www.amazon.com/adidas-Men-ULTRARUN-Running-Shoes/dp/B0F8JKKMPJ?utm_source=chatgpt.com", "pub_date": 1747094400.0, "snippet": "About this item Ultrarun 5 Running Shoes Cushioned running shoes made in part with recycled materials. Mesh upper Go a little farther and push a little faster with every run. These adidas running shoes help you progress toward your goals with the springy feel of lightweight Bounce 2.0 cushioning underfoot. The mesh upper keeps your feet cool and comfy from start to finish, and a grippy outsole ..."}}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "{\""}, {"p": "/end_idx", "o": "replace", "v": 1593}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "source"}, {"p": "/end_idx", "o": "replace", "v": 1599}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 1602}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "Flip"}, {"p": "/end_idx", "o": "replace", "v": 1606}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "kart"}, {"p": "/end_idx", "o": "replace", "v": 1610}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\",\""}, {"p": "/end_idx", "o": "replace", "v": 1613}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "theme"}, {"p": "/end_idx", "o": "replace", "v": 1618}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 1621}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "User"}, {"p": "/end_idx", "o": "replace", "v": 1625}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Satisfaction"}, {"p": "/end_idx", "o": "replace", "v": 1638}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\",\""}, {"p": "/end_idx", "o": "replace", "v": 1641}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "summary"}, {"p": "/end_idx", "o": "replace", "v": 1648}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 1651}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "Indian"}, {"p": "/end_idx", "o": "replace", "v": 1657}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " buyers"}, {"p": "/end_idx", "o": "replace", "v": 1664}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " express"}, {"p": "/end_idx", "o": "replace", "v": 1672}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " high"}, {"p": "/end_idx", "o": "replace", "v": 1677}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " satisfaction"}, {"p": "/end_idx", "o": "replace", "v": 1690}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " with"}, {"p": "/end_idx", "o": "replace", "v": 1695}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " the"}, {"p": "/end_idx", "o": "replace", "v": 1699}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Ul"}, {"p": "/end_idx", "o": "replace", "v": 1702}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "trar"}, {"p": "/end_idx", "o": "replace", "v": 1706}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "un"}, {"p": "/end_idx", "o": "replace", "v": 1708}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " "}, {"p": "/end_idx", "o": "replace", "v": 1709}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "5"}, {"p": "/end_idx", "o": "replace", "v": 1710}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ","}, {"p": "/end_idx", "o": "replace", "v": 1711}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " with"}, {"p": "/end_idx", "o": "replace", "v": 1716}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " comments"}, {"p": "/end_idx", "o": "replace", "v": 1725}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " like"}, {"p": "/end_idx", "o": "replace", "v": 1730}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " '"}, {"p": "/end_idx", "o": "replace", "v": 1732}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "Best"}, {"p": "/end_idx", "o": "replace", "v": 1736}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " shoe"}, {"p": "/end_idx", "o": "replace", "v": 1741}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "'"}, {"p": "/end_idx", "o": "replace", "v": 1742}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " and"}, {"p": "/end_idx", "o": "replace", "v": 1746}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " '"}, {"p": "/end_idx", "o": "replace", "v": 1748}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "Excellent"}, {"p": "/end_idx", "o": "replace", "v": 1757}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "'"}, {"p": "/end_idx", "o": "replace", "v": 1758}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " indicating"}, {"p": "/end_idx", "o": "replace", "v": 1769}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " positive"}, {"p": "/end_idx", "o": "replace", "v": 1778}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " experiences"}, {"p": "/end_idx", "o": "replace", "v": 1790}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ".\",\""}, {"p": "/end_idx", "o": "replace", "v": 1794}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "sent"}, {"p": "/end_idx", "o": "replace", "v": 1798}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "iment"}, {"p": "/end_idx", "o": "replace", "v": 1803}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 1806}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "positive"}, {"p": "/end_idx", "o": "replace", "v": 1814}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\",\""}, {"p": "/end_idx", "o": "replace", "v": 1817}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "cite"}, {"p": "/end_idx", "o": "replace", "v": 1821}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 1824}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "turn"}, {"p": "/end_idx", "o": "replace", "v": 1828}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "0"}, {"p": "/end_idx", "o": "replace", "v": 1829}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "search"}, {"p": "/end_idx", "o": "replace", "v": 1835}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "17"}, {"p": "/end_idx", "o": "replace", "v": 1837}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\"}"}, {"p": "/end_idx", "o": "replace", "v": 1839}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\ue202"}, {"p": "/end_idx", "o": "replace", "v": 1840}, {"p": "/reviews", "o": "append", "v": [{"source": "Flipkart", "theme": "User Satisfaction", "summary": "Indian buyers express high satisfaction with the Ultrarun 5, with comments like 'Best shoe' and 'Excellent' indicating positive experiences.", "rating": null, "num_reviews": null, "sentiment": "positive", "cite_url": null, "cite": "turn0search17"}]}, {"p": "/cite_map/turn0search17", "o": "add", "v": {"cite": "turn0search17", "title": "Adidas Ultrarun 5 Running Shoes Men Reviews: Latest Review ... - Flipkart", "url": "https://www.flipkart.com/adidas-ultrarun-5-running-shoes-men/product-reviews/itm0d9a2a59f3b10?pid=SHOHFCB4Z3KHR6TH&utm_source=chatgpt.com", "pub_date": null, "snippet": "Read Latest Reviews of Adidas Ultrarun 5 Running Shoes Men on Flipkart.com. Find genuine customer reviews and ratings. Buy Adidas Ultrarun 5 Running Shoes Men at best prices on Flipkart.com."}}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "{\""}, {"p": "/end_idx", "o": "replace", "v": 1842}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "source"}, {"p": "/end_idx", "o": "replace", "v": 1848}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 1851}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "Run"}, {"p": "/end_idx", "o": "replace", "v": 1854}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "Repeat"}, {"p": "/end_idx", "o": "replace", "v": 1860}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\",\""}, {"p": "/end_idx", "o": "replace", "v": 1863}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "theme"}, {"p": "/end_idx", "o": "replace", "v": 1868}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 1871}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "Performance"}, {"p": "/end_idx", "o": "replace", "v": 1882}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Comparison"}, {"p": "/end_idx", "o": "replace", "v": 1893}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\",\""}, {"p": "/end_idx", "o": "replace", "v": 1896}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "summary"}, {"p": "/end_idx", "o": "replace", "v": 1903}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 1906}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "While"}, {"p": "/end_idx", "o": "replace", "v": 1911}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " the"}, {"p": "/end_idx", "o": "replace", "v": 1915}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Ul"}, {"p": "/end_idx", "o": "replace", "v": 1918}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "trar"}, {"p": "/end_idx", "o": "replace", "v": 1922}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "un"}, {"p": "/end_idx", "o": "replace", "v": 1924}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " "}, {"p": "/end_idx", "o": "replace", "v": 1925}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "5"}, {"p": "/end_idx", "o": "replace", "v": 1926}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " is"}, {"p": "/end_idx", "o": "replace", "v": 1929}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " appreciated"}, {"p": "/end_idx", "o": "replace", "v": 1941}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " for"}, {"p": "/end_idx", "o": "replace", "v": 1945}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " its"}, {"p": "/end_idx", "o": "replace", "v": 1949}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " affordability"}, {"p": "/end_idx", "o": "replace", "v": 1963}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ","}, {"p": "/end_idx", "o": "replace", "v": 1964}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " some"}, {"p": "/end_idx", "o": "replace", "v": 1969}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " users"}, {"p": "/end_idx", "o": "replace", "v": 1975}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " note"}, {"p": "/end_idx", "o": "replace", "v": 1980}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " it"}, {"p": "/end_idx", "o": "replace", "v": 1983}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " lacks"}, {"p": "/end_idx", "o": "replace", "v": 1989}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " the"}, {"p": "/end_idx", "o": "replace", "v": 1993}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " responsive"}, {"p": "/end_idx", "o": "replace", "v": 2004}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " ride"}, {"p": "/end_idx", "o": "replace", "v": 2009}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " of"}, {"p": "/end_idx", "o": "replace", "v": 2012}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " higher"}, {"p": "/end_idx", "o": "replace", "v": 2019}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "-end"}, {"p": "/end_idx", "o": "replace", "v": 2023}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " models"}, {"p": "/end_idx", "o": "replace", "v": 2030}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " like"}, {"p": "/end_idx", "o": "replace", "v": 2035}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " the"}, {"p": "/end_idx", "o": "replace", "v": 2039}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " AS"}, {"p": "/end_idx", "o": "replace", "v": 2042}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "ICS"}, {"p": "/end_idx", "o": "replace", "v": 2045}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " Nov"}, {"p": "/end_idx", "o": "replace", "v": 2049}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "ab"}, {"p": "/end_idx", "o": "replace", "v": 2051}]} 
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "last"}, {"p": "/end_idx", "o": "replace", "v": 2055}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " "}, {"p": "/end_idx", "o": "replace", "v": 2056}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "5"}, {"p": "/end_idx", "o": "replace", "v": 2057}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ","}, {"p": "/end_idx", "o": "replace", "v": 2058}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " suggesting"}, {"p": "/end_idx", "o": "replace", "v": 2069}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " it's"}, {"p": "/end_idx", "o": "replace", "v": 2074}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " better"}, {"p": "/end_idx", "o": "replace", "v": 2081}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " suited"}, {"p": "/end_idx", "o": "replace", "v": 2088}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " for"}, {"p": "/end_idx", "o": "replace", "v": 2092}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " casual"}, {"p": "/end_idx", "o": "replace", "v": 2099}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " runs"}, {"p": "/end_idx", "o": "replace", "v": 2104}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " rather"}, {"p": "/end_idx", "o": "replace", "v": 2111}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " than"}, {"p": "/end_idx", "o": "replace", "v": 2116}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " performance"}, {"p": "/end_idx", "o": "replace", "v": 2128}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "-focused"}, {"p": "/end_idx", "o": "replace", "v": 2136}]}   
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": " training"}, {"p": "/end_idx", "o": "replace", "v": 2145}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": ".\",\""}, {"p": "/end_idx", "o": "replace", "v": 2149}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "sent"}, {"p": "/end_idx", "o": "replace", "v": 2153}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "iment"}, {"p": "/end_idx", "o": "replace", "v": 2158}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 2161}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "neutral"}, {"p": "/end_idx", "o": "replace", "v": 2168}]}    
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\",\""}, {"p": "/end_idx", "o": "replace", "v": 2171}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "cite"}, {"p": "/end_idx", "o": "replace", "v": 2175}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\":\""}, {"p": "/end_idx", "o": "replace", "v": 2178}]}      
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "turn"}, {"p": "/end_idx", "o": "replace", "v": 2182}]}       
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "0"}, {"p": "/end_idx", "o": "replace", "v": 2183}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "search"}, {"p": "/end_idx", "o": "replace", "v": 2189}]}     
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "0"}, {"p": "/end_idx", "o": "replace", "v": 2190}]}  
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\"}"}, {"p": "/end_idx", "o": "replace", "v": 2192}]}
+
+event: delta
+data: {"v": [{"p": "/matched_text", "o": "append", "v": "\ue201"}, {"p": "/end_idx", "o": "replace", "v": 2193}, {"p": "/reviews", "o": "append", "v": [{"source": "RunRepeat", "theme": "Performance Comparison", "summary": "While the Ultrarun 5 is appreciated for its affordability, some users note it lacks the responsive ride of higher-end models like the ASICS Novablast 5, suggesting it's better suited for casual runs rather than performance-focused training.", "rating": null, "num_reviews": null, "sentiment": "neutral", "cite_url": null, "cite": "turn0search0"}]}]}  
+
