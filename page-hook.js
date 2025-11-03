@@ -23,7 +23,11 @@
   }
 
   function post(type, payload) {
-    console.log("[Page Hook] Posting message:", type, { direction: "from-page", type, payload });
+    console.log("[Page Hook] Posting message:", type, {
+      direction: "from-page",
+      type,
+      payload,
+    });
     window.postMessage({ direction: "from-page", type, payload }, "*");
   }
 
@@ -46,7 +50,7 @@
       }
 
       // Process in background without blocking main thread
-      setTimeout(() => {
+      setTimeout(async () => {
         try {
           if (url === CONVERSATION_TARGET_URL) {
             const parsedData = parseSSEtoJSON(collected);
@@ -67,6 +71,33 @@
               user_prompt: structuredData.user_prompt.substring(0, 100) + "...",
               response_length: structuredData.raw_assistant_response.length,
             });
+
+            const products = Array.from(
+              document.querySelectorAll(
+                '[data-testid="products-widget"] .thread-lg\\:w-61'
+              )
+            );
+
+            if (products.length > 0) {
+              for (const product of products) {
+                const imgContainer = product.querySelector("img.object-cover");
+                imgContainer?.click();
+                await sleep(1000);
+                const containerElement =
+                  document.querySelector(
+                    "section[data-testid='screen-threadFlyOut']"
+                  ) ||
+                  document.querySelector(
+                    "[data-testid='modal-search-results']"
+                  );
+                const closeButton = containerElement.querySelector(
+                  'button[data-testid="close-button"]'
+                );
+                closeButton?.click();
+              }
+            } else {
+              console.warn("No Recommended Products...");
+            }
           } else if (url === PRODUCT_TARGET_URL) {
             const parsedData = parseSSEtoJSON(collected);
             const structuredData = extractProductData(parsedData);
@@ -99,6 +130,9 @@
     }
   }
 
+  const sleep = (ms) => {
+    return new Promise((r) => setTimeout(r, ms));
+  };
 
   // --- Hook fetch ---
   const originalFetch = window.fetch;
@@ -251,46 +285,16 @@
   })();
 
   console.log("[Page Hook] Fetch and XHR hooks installed successfully");
-  console.log("[Page Hook] Monitoring URLs:", CONVERSATION_TARGET_URL, PRODUCT_TARGET_URL);
+  console.log(
+    "[Page Hook] Monitoring URLs:",
+    CONVERSATION_TARGET_URL,
+    PRODUCT_TARGET_URL
+  );
 
   post("inject_done", {
     msg: "fetch and XHR hooked for CONVERSATION_TARGET_URL and PRODUCT_TARGET_URL only",
   });
 })();
-
-// function parseEventLine(line, state = {}) {
-//   // Only handle lines with the right prefix
-//   if (!line.includes("event delta data")) return state;
-
-//   // Remove the leading prefix
-//   const dataString = line.replace("event delta data ", "");
-//   const segments = dataString.split(", ");
-//   const event = {};
-//   segments.forEach((segment) => {
-//     // Handle "key value", "key", or "key value with spaces"
-//     const spaceIdx = segment.indexOf(" ");
-//     if (spaceIdx > 0) {
-//       const key = segment.slice(0, spaceIdx).trim();
-//       let value = segment.slice(spaceIdx + 1).trim();
-//       // Remove quotes if present
-//       if (value.startsWith('"') && value.endsWith('"')) {
-//         value = value.slice(1, -1);
-//       }
-//       event[key] = value;
-//     } else {
-//       event[segment] = true; // flag param, no value
-//     }
-//   });
-
-//   // Apply logic only for add/replace
-//   if (event.o === "add" || event.o === "append") {
-//     state[event.p] = (state[event.p] || "") + (event.v || "");
-//   } else if (event.o === "replace") {
-//     state[event.p] = event.v || "";
-//   }
-
-//   return state;
-// }
 
 /**
  * Parse Server-Sent Events (SSE) format into JSON objects
@@ -336,33 +340,6 @@ function parseSSEtoJSON(sseText) {
 
   return parsedEvents;
 }
-
-// function applyDeltaEvents(events) {
-//   // Initialize your state object
-//   const state = {};
-
-//   // Utility to resolve paths like "/matched_text"
-//   function setValue(path, op, value) {
-//     // Remove leading slash
-//     const key = path.replace(/^\//, "");
-//     if (op === "append") {
-//       state[key] = (state[key] || "") + value;
-//     } else if (op === "replace") {
-//       state[key] = value;
-//     }
-//   }
-
-//   for (const eventObj of events) {
-//     if (!eventObj.data || !eventObj.data.v) continue;
-//     if (eventObj?.data?.v?.length > 0) {
-//       for (const delta of eventObj.data.v) {
-//         setValue(delta.p, delta.o, delta.v);
-//       }
-//     }
-//   }
-
-//   return state;
-// }
 
 function extractConversationData(eventStreamData) {
   const result = {

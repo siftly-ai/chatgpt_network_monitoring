@@ -112,7 +112,10 @@ chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
           sources,
         } = msg.payload;
 
-        console.log("[Background] Calling backend API:", `${ENV.BACKEND_URL}/api/ingest`);
+        console.log(
+          "[Background] Calling backend API:",
+          `${ENV.BACKEND_URL}/api/ingest`
+        );
 
         const response = await fetchApi(
           `${ENV.BACKEND_URL}/api/ingest`,
@@ -129,13 +132,17 @@ chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
             },
             client_ip: clientIp,
             user_name: (await getFromLocalStorage("userName")) || "test-User",
-            brand_name: (await getFromLocalStorage("brandName")) || "test-Brand",
+            brand_name:
+              (await getFromLocalStorage("brandName")) || "test-Brand",
           },
           "POST"
         );
 
         if (!response?.ok) {
-          console.warn("Conversation ingest responded without ok=true", response);
+          console.warn(
+            "Conversation ingest responded without ok=true",
+            response
+          );
           sendResponse({ ok: false });
         } else {
           console.info("Conversation API ingested successfully: ", response);
@@ -150,7 +157,10 @@ chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
         const { conversationId, productData } = msg.payload;
         console.log("{msg.payload}: ", msg.payload);
 
-        console.log("[Background] Calling backend API:", `${ENV.BACKEND_URL}/api/ingest-product`);
+        console.log(
+          "[Background] Calling backend API:",
+          `${ENV.BACKEND_URL}/api/ingest-product`
+        );
 
         const response = await fetchApi(
           `${ENV.BACKEND_URL}/api/ingest-product`,
@@ -158,7 +168,8 @@ chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
             source: "chatgpt-extension",
             conversation_id: conversationId,
             user_name: (await getFromLocalStorage("userName")) || "Test-User",
-            brand_name: (await getFromLocalStorage("brandName")) || "Test-Brand",
+            brand_name:
+              (await getFromLocalStorage("brandName")) || "Test-Brand",
             product_name: productData.product_name,
             product_data: productData,
           },
