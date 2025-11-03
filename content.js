@@ -23,7 +23,11 @@ console.log("[Content Script] Loaded on:", window.location.href);
     const data = event.data;
     if (!data || data.direction !== "from-page") return;
 
-    console.log("[Content Script] Received message from page:", data.type, data);
+    console.log(
+      "[Content Script] Received message from page:",
+      data.type,
+      data
+    );
 
     // Pass through the message type and payload from page-hook.js
     console.log("[Content Script] Sending to background:", { type: data.type });
