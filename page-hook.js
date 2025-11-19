@@ -2,7 +2,7 @@
   const CONVERSATION_TARGET_URL =
     "https://chatgpt.com/backend-api/f/conversation";
   const PRODUCT_TARGET_URL =
-    "https://chatgpt.com/backend-api/search/product_info";
+    "https://chatgpt.com/backend-api/search/product_update";
 
   // Helper to sanitize objects for postMessage
   function sanitize(obj) {
@@ -90,10 +90,19 @@
                   document.querySelector(
                     "[data-testid='modal-search-results']"
                   );
-                const closeButton = containerElement.querySelector(
-                  'button[data-testid="close-button"]'
-                );
-                closeButton?.click();
+                await sleep(1000);
+                if (containerElement) {
+                  const closeButton = containerElement.querySelector(
+                    'button[data-testid="close-button"]'
+                  );
+                  if (closeButton) {
+                    closeButton.click();
+                  } else {
+                    console.warn("No closeButton found...");
+                  }
+                } else {
+                  console.warn("No ContainerElement found...");
+                }
               }
             } else {
               console.warn("No Recommended Products...");
